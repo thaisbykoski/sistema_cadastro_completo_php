@@ -28,19 +28,19 @@ Sistema Completo para cadastro de funcionários.
 
 ### Informações de Acesso (Para cada nível de acesso):
 
-####### Administrador:
+###### Administrador:
 
 e-mail: admin@mail.com
 senha: admin1234
 
 
-####### Funcionário:
+###### Funcionário:
 
 e-mail: joao@gmail.com
 senha: casa
 
 
-####### Conferente: 
+###### Conferente: 
 
 e-mail: maria@gmail.com
 senha: casa
