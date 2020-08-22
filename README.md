@@ -4,16 +4,16 @@ Sistema Completo para cadastro de funcionários.
 
 ### Tecnologias utilizadas:
 
-* Back-end:
+###### Back-end:
 - PHP
 
-* Front-end
+###### Front-end
 - HTML5
 - CSS3
 - JQuery
 - Bootstrap
 
-* Banco de Dados:
+###### Banco de Dados:
 - Mysql
 
 ### Contém as seguintes funcionalidades:
@@ -28,19 +28,19 @@ Sistema Completo para cadastro de funcionários.
 
 ### Informações de Acesso (Para cada nível de acesso):
 
-Administrador:
+####### Administrador:
 
 e-mail: admin@mail.com
 senha: admin1234
 
 
-Funcionário:
+####### Funcionário:
 
 e-mail: joao@gmail.com
 senha: casa
 
 
-Conferente: 
+####### Conferente: 
 
 e-mail: maria@gmail.com
 senha: casa
